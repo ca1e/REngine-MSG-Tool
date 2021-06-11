@@ -1,0 +1,11 @@
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\bin\Debug\net48\REngine-msg-tool.exe.config
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\bin\Debug\net48\REngine-msg-tool.exe
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\bin\Debug\net48\REngine-msg-tool.pdb
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\bin\Debug\net48\Gibbed.IO.dll
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.csproj.AssemblyReference.cache
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.AssemblyInfoInputs.cache
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.AssemblyInfo.cs
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.csproj.CoreCompileInputs.cache
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.csproj.CopyComplete
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.exe
+D:\projects-ns\romhack\REngineTools\REngine-msg-tool\REngine-msg-tool\obj\Debug\net48\REngine-msg-tool.pdb

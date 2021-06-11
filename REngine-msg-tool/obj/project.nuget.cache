@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK8P33mKKnxEkgWo+YI4O+W08ubwwpcigXiMREaleA6APDohRqa4di46Un5VxmVg4qgVDMSEm2gqb8FNNU408A==",
+  "success": true,
+  "projectFilePath": "D:\\projects-ns\\romhack\\REngineTools\\REngine-msg-tool\\REngine-msg-tool\\REngine-msg-tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safufu\\.nuget\\packages\\gibbed.io\\1.0.0\\gibbed.io.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
