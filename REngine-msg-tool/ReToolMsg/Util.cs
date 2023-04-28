@@ -50,22 +50,8 @@ namespace REngine.MsgTool
 
 		private static readonly byte[] m_Key = new byte[]
 		{
-			207,
-			206,
-			251,
-			248,
-			236,
-			10,
-			51,
-			102,
-			147,
-			169,
-			29,
-			147,
-			80,
-			57,
-			95,
-			9
+			0xCF, 0xCE, 0xFB, 0xF8, 0xEC, 0x0A, 0x33, 0x66,
+			0x93, 0xA9, 0x1D, 0x93, 0x50, 0x39, 0x5F, 0x09
 		};
 	}
 }

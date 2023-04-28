@@ -261,27 +261,53 @@ namespace REngine.MsgTool
 
 	public enum MsgVersion
     {
+		V12 = 12,
 		V14 = 14,
 		V15,
 		V17 = 17,
+		V20 = 20,
+		V22 = 22,
     }
 
-	public enum Language// 14, 15, 17
+
+/*
+	see: https://github.com/dtlnor/REMSG_Converter/blob/main/REMSG.py#L47
+*/
+	public enum Language
 	{
-		ja,
-		en,
-		fr,
-		it,
-		de,
-		es,
-		ru,
-		pl,
-		ptBR = 10,
-		ko,
-		zhTW,
-		zhCN,
-		// for msg.17
-		ar = 21,
-		th = 26
+		Japanese = 0,
+		English,
+		French,
+		Italian,
+		German,
+		Spanish,
+		Russian,
+		Polish,
+		Dutch,
+		Portuguese,
+		PortugueseBr,
+		Korean,
+		TransitionalChinese,
+		SimplelifiedChinese,
+		Finnish,
+		Swedish,
+		Danish,
+		Norwegian,
+		Czech,
+		Hungarian,
+		Slovak,
+		Arabic,
+		Turkish,
+		Bulgarian,
+		Greek,
+		Romanian,
+		Thai,
+		Ukrainian,
+		Vietnamese,
+		Indonesian,
+		Fiction,
+		Hindi,
+		LatinAmericanSpanish,
+		//Max = 33
 	}
 }
